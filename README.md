@@ -1,5 +1,5 @@
 # Office-Haven
-**Office Haven** is a modern e-commerce platform for premium office furniture, featuring dynamic product filtering, secure admin dashboards, responsive design, and a seamless user experience. Built with React, Zustand, and TailwindCSS, it showcases expertise in scalable web solutions, balancing customer engagement with backend efficiency.
+Office Haven is a modern, elegant office furniture e-commerce website that provides a seamless shopping experience for premium office furniture. Built with a focus on user experience and minimalist design, the website features responsive layouts, product management, and a fully functional admin dashboard.
 
 ## Features  
 
